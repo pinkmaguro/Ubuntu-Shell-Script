@@ -1,0 +1,1 @@
+dd if=file1 of=file2 conv=ucase
