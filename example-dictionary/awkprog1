@@ -1,0 +1,2 @@
+{ if ($1 ~ /^J/) printf "%s\n", $0 > "Jfile"
+if ($1 ~ /^P/) printf "%s\n", $0 > "Pfile"}

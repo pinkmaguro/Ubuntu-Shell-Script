@@ -1,0 +1,2 @@
+{sum += $3}
+END {printf "The average of the ages is %.2f\n", sum/NR}

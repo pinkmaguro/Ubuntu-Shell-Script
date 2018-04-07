@@ -15,3 +15,9 @@ $ chmod +x script.sh
 
 ###  스크립트 실행하기
 $ ./script.sh
+
+### some useful commands
+dd : convert and copy
+dd if=file1 of=file2 conv=ucase ibs=4 skip=1
+[link1](http://manpages.ubuntu.com/manpages/xenial/man1/dd.1.html)
+[link2](https://www.howtoforge.com/linux-dd-command/)
